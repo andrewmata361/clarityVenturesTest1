@@ -1,0 +1,6 @@
+@clarityVenturesTest_HostAddress = http://localhost:5277
+
+GET {{clarityVenturesTest_HostAddress}}/Recipients
+Accept: application/json
+
+###
